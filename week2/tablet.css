@@ -1,0 +1,13 @@
+.container{
+    display: inline-block;
+    width: 100%;
+
+}
+.cnt2{
+    width: 94%;
+}
+.box-2{
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+}
